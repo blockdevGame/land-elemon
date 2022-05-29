@@ -1,7 +1,7 @@
 {
-    "name": "Card 1",
+    "name": "Land of Earth",
     "description": "Genesis card",
-    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/cards/1.jpg",
+    "image_url": "https://raw.githubusercontent.com/blockdevGame/land-elemon/main/cards/720.png",
     "attributes": [
         {
           "trait_type": "class", 
