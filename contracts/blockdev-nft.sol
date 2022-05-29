@@ -7,7 +7,7 @@ contract BlockdevNFT is ERC721 {
     using Strings for uint256;
     string public baseURI = "https://raw.githubusercontent.com/blockdevGame/land-elemon/main/cards/";
 
-    constructor() ERC721("Land of Earth", "LAND") {
+    constructor() ERC721("Elemon Land 520", "LAND") {
 
     }
 
